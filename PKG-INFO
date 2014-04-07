@@ -1,0 +1,13 @@
+Metadata-Version: 1.0
+Name: pymsmq
+Version: 0.8
+Summary: The simplest msmq library for python
+Home-page: https://github.com/AlexEskin/PyMSMQ
+Author: Alex Eskin
+Author-email: eskinsqt@gmail.com
+License: MIT
+Description: # pymsmq
+        The simplest python msmq library ever written.
+
+Keywords: msmq
+Platform: Windows
