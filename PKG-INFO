@@ -1,6 +1,6 @@
 Metadata-Version: 1.0
 Name: pymsmq
-Version: 0.8
+Version: 0.2
 Summary: The simplest msmq library for python
 Home-page: https://github.com/AlexEskin/PyMSMQ
 Author: Alex Eskin
