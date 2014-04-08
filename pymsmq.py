@@ -22,10 +22,10 @@ class Sender(object):
 
     def write(self, label, message):
         if self.myq.IsOpen:
-            umessage = unicode();
-            for i in message:
-                umessage+=unichr(ord(i));
-            message = umessage
+            # umessage = unicode();
+            # for i in message:
+            #     umessage+=unichr(ord(i));
+            # message = umessage
 
             msg = msmq.MSMQMessage()
             msg.Priority = 4
